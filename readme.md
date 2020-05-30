@@ -1,3 +1,3 @@
 # demo
 
-Some demo.  
+Some demo!
